@@ -1,0 +1,284 @@
+Here is the refined prompt. It assumes **language support is already implemented** and **the premium biography page already exists**. The focus is on adding the new pages and integrating them cleanly without disrupting the current architecture.
+
+---
+
+# Feature Update Prompt — NDC Website (Phase 2)
+
+The website already has:
+
+* ✅ English/Hausa language switching implemented.
+* ✅ Premium biography page implemented (I will update the biography content manually).
+* ✅ Existing architecture, theme system and routing working correctly.
+
+Do **NOT** rebuild existing pages.
+
+Do **NOT** change the current design language.
+
+Extend the existing application while preserving the current architecture.
+
+---
+
+# 1. Replace Candidate Name
+
+Replace every public occurrence of:
+
+> Honourable Suleiman Salihu Usman
+
+with
+
+> **Engr. Sen. Kabiru Garba Marafa, OFR, CON**
+
+Only update visible UI text.
+
+Do not rename components or folders unless necessary.
+
+---
+
+# 2. Add New Navigation Items
+
+Add two new pages to the main navigation.
+
+```
+Party Leadership
+
+NDC Aspirants
+```
+
+Desktop and mobile navigation must both support them.
+
+---
+
+# 3. Party Leadership Page
+
+Create
+
+```
+/party-leadership
+```
+
+This page should introduce the principal officers of the Nigeria Democratic Congress (NDC).
+
+Create the layout so it can easily grow in the future.
+
+Do not hardcode cards directly inside JSX.
+
+Create
+
+```
+src/data/partyLeadership.ts
+```
+
+Each leader should have:
+
+```
+id
+name
+position
+level
+state
+photo
+shortDescription
+```
+
+where
+
+```
+level:
+National
+State
+```
+
+---
+
+Use **placeholder portraits** for every official.
+
+Use images such as:
+
+```
+https://placehold.co/600x700
+```
+
+or another clean placeholder source.
+
+The layout should automatically display images from the data file so replacing them later only requires changing the image path.
+
+Design:
+
+* premium hero
+* section introduction
+* National Leadership grid
+* State Leadership grid
+
+Each card should contain
+
+* portrait
+* name
+* position
+* short description
+
+Include subtle hover animations.
+
+---
+
+# 4. NDC Zamfara Aspirants Page
+
+Create
+
+```
+/aspirants
+```
+
+This page showcases every NDC aspirant in Zamfara State.
+
+Create
+
+```
+src/data/aspirants.ts
+```
+
+Each object should include
+
+```
+id
+name
+office
+constituency
+photo
+status
+bio
+```
+
+Use placeholder portraits for every aspirant.
+
+Example placeholder
+
+```
+https://placehold.co/600x700
+```
+
+Each aspirant should appear as a premium profile card.
+
+Card contents
+
+* portrait
+* name
+* office contested
+* constituency
+* status badge
+* View Profile button
+
+The page should be completely data-driven.
+
+Later we will simply replace:
+
+```
+photo
+bio
+```
+
+without touching the UI.
+
+---
+
+# 5. Premium Card Design
+
+Reuse existing design tokens.
+
+Cards should have
+
+* rounded corners
+* soft shadows
+* glass hover effect
+* image zoom on hover
+* Framer Motion entrance animation
+* responsive layout
+
+Avoid creating another design system.
+
+Use existing components wherever possible.
+
+---
+
+# 6. Routing
+
+Add routes using the current router.
+
+```
+/party-leadership
+
+/aspirants
+```
+
+Navigation should highlight the active page.
+
+---
+
+# 7. Theme
+
+Continue using the existing NDC color system.
+
+Do not introduce new colors.
+
+Do not hardcode hex values.
+
+Only use semantic theme tokens.
+
+---
+
+# 8. Images
+
+Every image should be loaded through the data files.
+
+Never hardcode image URLs inside components.
+
+Later replacing portraits should only require editing:
+
+```
+partyLeadership.ts
+
+aspirants.ts
+```
+
+---
+
+# 9. Architecture
+
+Do not modify existing homepage logic.
+
+Do not modify biography page.
+
+Do not modify translation framework.
+
+Do not change folder structure.
+
+Simply extend the current architecture.
+
+---
+
+# 10. Deliverables
+
+When complete the project should contain:
+
+```
+✓ Party Leadership page
+
+✓ Aspirants page
+
+✓ Navigation updated
+
+✓ Responsive layouts
+
+✓ Placeholder portraits
+
+✓ Data-driven architecture
+
+✓ Existing design preserved
+
+✓ Existing translations unaffected
+
+✓ Existing biography untouched
+
+✓ Existing homepage untouched
+```
+
+The implementation should feel like a natural extension of the current premium website rather than a separate module, maintaining consistent typography, spacing, animations, and visual identity throughout.
