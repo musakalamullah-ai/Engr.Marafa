@@ -2,17 +2,19 @@ services:
   - type: web
     name: suleiman-salihu-usman-website
     env: static
-    buildCommand: npm ci --force && npm run build
-    staticPublishPath: dist
-    # SPA routing — all paths fall through to index.html
+    buildCommand: pnpm --dir artifacts/mockup-sandbox run build
+    staticPublishPath: artifacts/mockup-sandbox/dist
+
     routes:
       - type: rewrite
         source: /*
         destination: /index.html
+
     headers:
       - path: /assets/*
         name: Cache-Control
         value: public, max-age=31536000, immutable
+
       - path: /images/*
         name: Cache-Control
         value: public, max-age=31536000, immutable
