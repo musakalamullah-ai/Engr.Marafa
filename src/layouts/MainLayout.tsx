@@ -15,6 +15,8 @@ const navKey = (href: string): string => {
     "/vision": "navigation.vision",
     "/community-impact": "navigation.community_impact",
     "/programs": "navigation.programs",
+    "/party-leadership": "navigation.party_leadership",
+    "/aspirants": "navigation.aspirants",
     "/news": "navigation.news",
     "/gallery": "navigation.gallery",
     "/media": "navigation.media",
@@ -58,7 +60,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
         <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 z-50">
             <div className="w-10 h-10 bg-primary text-white rounded-lg flex items-center justify-center font-bold text-xl shadow-md">
-              SU
+              KM
             </div>
             <div
               className={cn(
@@ -66,7 +68,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
                 isScrolled ? "text-foreground" : "text-white drop-shadow-md"
               )}
             >
-              <div className="text-lg leading-none">Hon. Suleiman</div>
+              <div className="text-lg leading-none">Engr. Marafa</div>
               <div className="text-xs text-primary font-bold uppercase tracking-widest mt-0.5">
                 {t("footer.for_zamfara")}
               </div>
@@ -74,8 +76,8 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-8">
-            {siteConfig.navLinks.slice(0, 7).map((link) => (
+          <nav className="hidden lg:flex items-center gap-6">
+            {siteConfig.navLinks.slice(0, 9).map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
@@ -183,10 +185,10 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
             <div>
               <Link href="/" className="flex items-center gap-3 mb-6">
                 <div className="w-10 h-10 bg-white text-primary rounded-lg flex items-center justify-center font-bold text-xl">
-                  SU
+                  KM
                 </div>
                 <div className="font-extrabold tracking-tight">
-                  <div className="text-lg leading-none">Hon. Suleiman</div>
+                  <div className="text-lg leading-none">Engr. Marafa</div>
                   <div className="text-xs text-white/70 uppercase tracking-widest mt-0.5">
                     {t("footer.for_zamfara")}
                   </div>

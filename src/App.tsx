@@ -11,6 +11,8 @@ import Vision from './pages/Vision';
 import CommunityImpact from './pages/CommunityImpact';
 import Programs from './pages/Programs';
 import ProgramDetail from './pages/ProgramDetail';
+import PartyLeadership from './pages/PartyLeadership';
+import Aspirants from './pages/Aspirants';
 import News from './pages/News';
 import Gallery from './pages/Gallery';
 import Media from './pages/Media';
@@ -31,6 +33,8 @@ function Router() {
         <Route path="/community-impact" component={CommunityImpact} />
         <Route path="/programs" component={Programs} />
         <Route path="/programs/:id" component={ProgramDetail} />
+        <Route path="/party-leadership" component={PartyLeadership} />
+        <Route path="/aspirants" component={Aspirants} />
         <Route path="/news" component={News} />
         <Route path="/gallery" component={Gallery} />
         <Route path="/media" component={Media} />
