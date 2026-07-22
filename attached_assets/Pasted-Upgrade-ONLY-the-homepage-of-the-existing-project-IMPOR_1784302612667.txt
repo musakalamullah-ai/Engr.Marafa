@@ -1,0 +1,257 @@
+Upgrade ONLY the homepage of the existing project.
+
+IMPORTANT:
+Do NOT rebuild the project.
+Do NOT change the routing.
+Do NOT modify the overall architecture.
+Do NOT rename existing components.
+Do NOT replace the design system.
+
+Work entirely within the existing homepage structure and reuse the current components.
+
+Objective:
+Elevate the homepage to feel comparable to premium personal-brand websites such as belloelrufai.com while preserving the identity of Honourable Suleiman Salihu Usman.
+
+==================================================
+1. PREMIUM HERO REDESIGN
+==================================================
+
+Replace the existing hero with a much richer experience.
+
+Requirements:
+
+• Full-screen hero
+• Background image slideshow (4–6 images)
+• Auto-play every 6 seconds
+• Previous / Next controls
+• Pagination dots
+• Smooth fade transition
+• Dark overlay for text readability
+
+Keep the portrait of the Honourable but integrate it naturally into the layout rather than placing it on a plain background.
+
+Hero layout:
+
+LEFT
+
+Large editorial headline
+
+Short supporting paragraph
+
+Primary CTA
+"Explore My Vision"
+
+Secondary CTA
+"Community Programs"
+
+Small text link
+"Watch My Story"
+
+RIGHT
+
+Portrait image with:
+
+• layered gradients
+• soft glow
+• subtle floating shapes
+• premium depth
+
+Add a small floating achievement badge such as:
+
+✓ Proven Community Leadership
+
+==================================================
+2. PREMIUM VISUALS
+==================================================
+
+Improve visual quality across the homepage.
+
+Increase whitespace.
+
+Improve typography hierarchy.
+
+Use larger headings.
+
+Increase card radius.
+
+Improve shadows.
+
+Improve spacing between sections.
+
+Add subtle section separators.
+
+Use premium gradients derived from the existing NDC color palette.
+
+Avoid introducing new colors.
+
+==================================================
+3. HOMEPAGE STORY FLOW
+==================================================
+
+Improve the visual transition between sections.
+
+Hero
+
+↓
+
+Statistics
+
+↓
+
+About
+
+↓
+
+Vision
+
+↓
+
+Community Impact
+
+↓
+
+Programs
+
+↓
+
+Testimonials
+
+↓
+
+News
+
+↓
+
+Volunteer CTA
+
+Every section should feel connected through spacing, animations and consistent layouts.
+
+==================================================
+4. HERO STATISTICS
+==================================================
+
+Improve the statistics section.
+
+Animate numbers on scroll.
+
+Use premium statistic cards.
+
+Include subtle hover animation.
+
+==================================================
+5. COMMUNITY IMPACT
+==================================================
+
+Highlight one featured project.
+
+Use an alternating layout with:
+
+image
+
+story
+
+location
+
+status badge
+
+CTA
+
+rather than equal-width cards only.
+
+==================================================
+6. TESTIMONIALS
+==================================================
+
+Upgrade the carousel.
+
+Improve spacing.
+
+Increase card quality.
+
+Add quotation marks.
+
+Improve navigation indicators.
+
+==================================================
+7. MICRO ANIMATIONS
+==================================================
+
+Use Framer Motion.
+
+Keep animations subtle.
+
+Examples:
+
+fade-up
+
+fade-left
+
+fade-right
+
+stagger children
+
+hover lift
+
+image zoom
+
+button hover
+
+scroll reveal
+
+Avoid excessive motion.
+
+==================================================
+8. IMAGE SLIDESHOW
+==================================================
+
+Implement a reusable HeroSlider component.
+
+Requirements:
+
+• autoplay
+• pause on hover
+• keyboard navigation
+• touch swipe
+• fade animation
+• lazy-loaded images
+• responsive
+
+Do not use a heavy carousel library unless already installed.
+
+==================================================
+9. PERFORMANCE
+==================================================
+
+Lazy-load images.
+
+Optimize rendering.
+
+Keep Lighthouse performance high.
+
+==================================================
+10. DO NOT TOUCH
+==================================================
+
+Do NOT modify:
+
+routing
+
+layouts
+
+Footer
+
+Navbar
+
+shared components
+
+data architecture
+
+existing cards
+
+Only improve the homepage presentation.
+
+==================================================
+11. DELIVERABLE
+==================================================
+
+Deliver a premium homepage that feels like a modern leadership website comparable in quality to Bello El-Rufai's website while preserving the project's existing architecture and keeping all current homepage sections.

@@ -1,0 +1,193 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "vision": "Vision",
+    "community_impact": "Community Impact",
+    "programs": "Programs",
+    "news": "News",
+    "gallery": "Gallery",
+    "media": "Media",
+    "volunteer": "Volunteer",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "NDC Aspirant, Zamfara State",
+    "title": "Leadership Rooted in Service",
+    "subtitle": "Building Opportunities for Every Community in Zamfara State.",
+    "cta_vision": "Explore My Vision",
+    "cta_programs": "Community Programs",
+    "watch": "Watch My Story",
+    "badge_title": "Proven Community Leadership",
+    "badge_sub": "15+ Years in Service",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "section_title": "Meet Hon. Suleiman",
+    "read_bio": "Read Full Biography",
+    "page": {
+      "hero_pre": "Meet",
+      "hero_accent": "Hon. Suleiman",
+      "hero_desc": "A lifetime of dedication to the prosperity, peace, and progress of Zamfara State.",
+      "philosophy_title": "Personal Philosophy",
+      "journey_title": "A Journey of Service",
+      "values_title": "Core Values & Principles",
+      "timeline_title": "Leadership Timeline",
+      "timeline_subtitle": "Milestones in a career dedicated to community development."
+    }
+  },
+  "vision": {
+    "section_title": "My Vision for Zamfara",
+    "section_sub": "A comprehensive plan to uplift our communities through strategic investments in key sectors.",
+    "view_all": "View All Policy Areas",
+    "page": {
+      "hero_pre": "A Vision for",
+      "hero_accent": "Tomorrow",
+      "hero_desc": "We are not just promising change; we are presenting a detailed, actionable blueprint to transform Zamfara into a hub of prosperity, security, and opportunity for all.",
+      "priorities_title": "Immediate Policy Priorities",
+      "priorities_subtitle": "The specific actions we will champion in the House of Representatives from Day One.",
+      "priorities": [
+        "Establishing a state-wide Technical & Vocational Education Training (TVET) fund.",
+        "Subsidizing modern farming equipment for registered agricultural cooperatives.",
+        "Upgrading 50 primary healthcare centers to operate 24/7 with solar power.",
+        "Providing zero-interest micro-loans for market women and small business owners.",
+        "Creating three regional IT Hubs to train youth in software development.",
+        "Implementing community-led security initiatives in partnership with state agencies."
+      ],
+      "cta": "Support Our Vision"
+    }
+  },
+  "impact": {
+    "section_title": "Community Impact",
+    "section_sub": "Real projects delivering tangible results for the people of Zamfara State.",
+    "beneficiaries": "Beneficiaries",
+    "location": "Location",
+    "read_case": "Read Case Study",
+    "view_all": "View All Impact Projects",
+    "page": {
+      "hero_pre": "Community",
+      "hero_accent": "Impact",
+      "hero_desc": "We don't just talk about development; we build it. Explore the projects that have transformed communities across Zamfara.",
+      "the_problem": "The Problem",
+      "the_solution": "The Solution",
+      "the_impact": "The Impact",
+      "partners": "Partners:",
+      "to": "to"
+    }
+  },
+  "programs": {
+    "section_title": "Active Programs",
+    "section_sub": "Initiatives designed to empower, educate, and elevate our people.",
+    "view_all": "View All Programs",
+    "page": {
+      "hero_pre": "Empowerment",
+      "hero_accent": "Programs",
+      "hero_desc": "Discover ongoing initiatives designed to provide skills, health, and economic stability.",
+      "filter_all": "All Programs",
+      "filter_open": "Open / Active",
+      "filter_coming_soon": "Coming Soon",
+      "filter_completed": "Completed",
+      "empty": "No programs found for this category."
+    }
+  },
+  "testimonials": {
+    "title": "Voices from the Community",
+    "subtitle": "Don't just take our word for it. Hear from the people whose lives have been impacted."
+  },
+  "news": {
+    "section_title": "Latest Updates",
+    "section_sub": "News, announcements, and insights from the campaign trail.",
+    "read_more": "Read More News",
+    "page": {
+      "hero_pre": "News &",
+      "hero_accent": "Updates",
+      "hero_desc": "Stay informed on our latest activities, policy announcements, and community engagements.",
+      "featured": "Featured",
+      "read_story": "Read Full Story",
+      "filter_label": "Filter by:",
+      "filter_all": "All Updates",
+      "empty": "No articles found in this category."
+    }
+  },
+  "gallery": {
+    "page": {
+      "hero_pre": "Photo",
+      "hero_accent": "Gallery",
+      "hero_desc": "Moments from the campaign trail, community meetings, and impactful projects."
+    }
+  },
+  "volunteer": {
+    "title": "Join the Movement",
+    "subtitle": "We cannot do this alone. Be part of the change by volunteering your time, skills, or voice to help us build a better Zamfara.",
+    "cta": "Volunteer Now",
+    "contact": "Contact Us",
+    "page": {
+      "hero_pre": "Join the",
+      "hero_accent": "Movement",
+      "hero_desc": "Real change requires collective action. We need your energy, your skills, and your passion.",
+      "why_title": "Why Volunteer?",
+      "why_desc": "Volunteering with the campaign is more than just politics; it is a commitment to the future of our state. We are building a grassroots network of change-makers.",
+      "benefit_community_title": "Community Building",
+      "benefit_community_desc": "Work alongside passionate people who want the best for Zamfara.",
+      "benefit_voice_title": "Amplify Your Voice",
+      "benefit_voice_desc": "Have a direct impact on policies and programs being developed.",
+      "benefit_change_title": "Create Real Change",
+      "benefit_change_desc": "See the tangible results of your efforts in the lives of others.",
+      "form_title": "Volunteer Registration Form",
+      "form_submit": "Join the Team",
+      "form_success": "Welcome to the team! We have received your details and our volunteer coordinator will reach out to you shortly.",
+      "label_name": "Full Name",
+      "label_phone": "Phone Number",
+      "label_email": "Email Address",
+      "label_lga": "Local Government Area",
+      "placeholder_lga": "Select LGA...",
+      "label_skills": "Skills you can contribute",
+      "label_interests": "Areas of Interest",
+      "skills": ["Data Entry", "Community Outreach", "Social Media", "Transportation", "Event Management", "Medical Support", "Legal Aid", "Teaching", "Photography"],
+      "interests": ["Education", "Healthcare", "Youth", "Women", "Agriculture", "Infrastructure", "General Support"]
+    }
+  },
+  "contact": {
+    "page": {
+      "hero_pre": "Get in",
+      "hero_accent": "Touch",
+      "hero_desc": "Have a question, suggestion, or want to invite Hon. Suleiman to your community? We're here to listen.",
+      "form_heading": "Send a Message",
+      "form_submit": "Send Message",
+      "form_success": "Thank you for reaching out. We will get back to you as soon as possible.",
+      "label_name": "Your Name",
+      "label_email": "Email Address",
+      "label_subject": "Subject",
+      "label_message": "Message",
+      "info_heading": "Contact Information",
+      "label_address": "Office Address",
+      "label_phone": "Phone",
+      "label_email_info": "Email",
+      "label_hours": "Office Hours",
+      "social_heading": "Follow Us",
+      "map_label": "Map Location"
+    }
+  },
+  "footer": {
+    "tagline": "Leadership rooted in service. Building opportunities for every community in Zamfara State under the Nigeria Democratic Congress (NDC).",
+    "for_zamfara": "For Zamfara",
+    "quick_links": "Quick Links",
+    "bio": "Biography",
+    "vision_policy": "Vision & Policy",
+    "programs": "Empowerment Programs",
+    "latest_news": "Latest News",
+    "volunteer": "Volunteer",
+    "contact_heading": "Contact Us",
+    "newsletter_heading": "Newsletter",
+    "newsletter_sub": "Stay updated with our latest community programs and initiatives.",
+    "email_placeholder": "Email address",
+    "rights": "All rights reserved.",
+    "ndc": "Nigeria Democratic Congress",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "language": {
+    "english": "English",
+    "hausa": "Hausa"
+  }
+}

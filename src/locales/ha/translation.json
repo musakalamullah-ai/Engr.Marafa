@@ -1,0 +1,193 @@
+{
+  "navigation": {
+    "home": "Gida",
+    "about": "Game da shi",
+    "vision": "Manufa",
+    "community_impact": "Tasirin Al'umma",
+    "programs": "Shirye-shirye",
+    "news": "Labarai",
+    "gallery": "Gidan Hoto",
+    "media": "Kafofin Watsa Labarai",
+    "volunteer": "Aikin Sa-kai",
+    "contact": "Tuntuɓa"
+  },
+  "hero": {
+    "badge": "Dan Takara na NDC, Jihar Zamfara",
+    "title": "Jagoranci da Aka Gina akan Hidima",
+    "subtitle": "Gina Dama ga Kowane Al'umma a Jihar Zamfara.",
+    "cta_vision": "Duba Manufata",
+    "cta_programs": "Shirye-shiryen Al'umma",
+    "watch": "Kalli Labarina",
+    "badge_title": "Jagorancin Al'umma da Aka Tabbatar",
+    "badge_sub": "Shekaru 15+ a Hidima",
+    "scroll": "Zazzage"
+  },
+  "about": {
+    "section_title": "Sanin Masha. Suleiman",
+    "read_bio": "Karanta Tarihin Rayuwa Duka",
+    "page": {
+      "hero_pre": "Haɗu da",
+      "hero_accent": "Masha. Suleiman",
+      "hero_desc": "Rayuwa gaba ɗaya na sadaukarwa don ci gaban, salama, da ci gaban Jihar Zamfara.",
+      "philosophy_title": "Falsafar Kansa",
+      "journey_title": "Tafiyar Hidima",
+      "values_title": "Ƙimomi da Ƙa'idoji",
+      "timeline_title": "Tarihin Jagorancin",
+      "timeline_subtitle": "Muhimman matakai a aiki da aka sadaukar ga cigaban al'umma."
+    }
+  },
+  "vision": {
+    "section_title": "Manufata ga Zamfara",
+    "section_sub": "Tsarin da ya hada kan dukkan fannoni don inganta al'ummominmu ta hanyar saka hannun jari mai hikima.",
+    "view_all": "Duba Dukkan Manufofin",
+    "page": {
+      "hero_pre": "Manufa don",
+      "hero_accent": "Gobe",
+      "hero_desc": "Ba kawai muna alkawarin canji ba; muna gabatar da shirin cikakke, mai aiki don canza Zamfara zuwa cibiyar wadata, tsaro, da dama ga duka.",
+      "priorities_title": "Muhimman Manufofin nan take",
+      "priorities_subtitle": "Takamaiman matakan da za mu ɗauka a Majalisar Wakilai daga Farko.",
+      "priorities": [
+        "Kafa asusun horo na Fasaha da Sana'o'i (TVET) a duk jihar.",
+        "Ba da tallafi na injunan noma na zamani ga ƙungiyoyin noma masu rijista.",
+        "Inganta cibiyoyin kiwon lafiya 50 na farko don su yi aiki sa'o'i 24/7 da hasken rana.",
+        "Ba da rance ba tare da riba ba ga matan kasuwa da masu kasuwancin ƙanana.",
+        "Ƙirƙirar cibiyoyin IT uku a yankunan don horar da matasa a ci gaban software.",
+        "Aiwatar da shirye-shiryen tsaro da al'umma ke jagoranta tare da hukumomin jiha."
+      ],
+      "cta": "Goyon bayan Manufarmu"
+    }
+  },
+  "impact": {
+    "section_title": "Tasirin Al'umma",
+    "section_sub": "Ayyuka na gaskiya da ke kawo sakamako mai ƙarfi ga mutanen Jihar Zamfara.",
+    "beneficiaries": "Masu Amfani",
+    "location": "Wuri",
+    "read_case": "Karanta Binciken",
+    "view_all": "Duba Dukkan Ayyukan Tasiri",
+    "page": {
+      "hero_pre": "Tasirin",
+      "hero_accent": "Al'umma",
+      "hero_desc": "Ba kawai muna magana game da ci gaba ba; muna ginashi. Duba ayyukan da suka canza al'ummomi a duk Zamfara.",
+      "the_problem": "Matsalar",
+      "the_solution": "Maganin",
+      "the_impact": "Tasirin",
+      "partners": "Abokan Haɗin gwiwa:",
+      "to": "zuwa"
+    }
+  },
+  "programs": {
+    "section_title": "Shirye-shiryen Da Ke Gudana",
+    "section_sub": "Shirye-shirye da aka tsara don ƙarfafa, ilimantarwa, da ɗaukaka mutanenmu.",
+    "view_all": "Duba Dukkan Shirye-shirye",
+    "page": {
+      "hero_pre": "Shirye-shiryen",
+      "hero_accent": "Ƙarfafawa",
+      "hero_desc": "Gano shirye-shiryen da ke gudana da aka tsara don ba da ƙwarewa, lafiya, da kwanciyar hankali na tattalin arziki.",
+      "filter_all": "Dukkan Shirye-shirye",
+      "filter_open": "Buɗaɗɗe / Mai Aiki",
+      "filter_coming_soon": "Zuwa Nan gaba",
+      "filter_completed": "An Kammala",
+      "empty": "Ba a sami shirye-shirye a wannan rukunin ba."
+    }
+  },
+  "testimonials": {
+    "title": "Muryoyin Al'umma",
+    "subtitle": "Kada ku dogara da maganarmu kawai. Ku ji daga mutanen da rayuwarsu ta canza."
+  },
+  "news": {
+    "section_title": "Sabbin Labarai",
+    "section_sub": "Labarai, sanarwa, da bayanai daga tafiyar yakin neman zabe.",
+    "read_more": "Karanta Ƙarin Labarai",
+    "page": {
+      "hero_pre": "Labarai da",
+      "hero_accent": "Sabuntawa",
+      "hero_desc": "Kasance cikin sani game da ayyukanmu na baya-bayan nan, sanarwar manufofin, da hulɗar al'umma.",
+      "featured": "Fitaccen",
+      "read_story": "Karanta Labarin Duka",
+      "filter_label": "Tace da:",
+      "filter_all": "Dukkan Sabuntawa",
+      "empty": "Ba a sami labaru a wannan rukunin ba."
+    }
+  },
+  "gallery": {
+    "page": {
+      "hero_pre": "Gidan",
+      "hero_accent": "Hoto",
+      "hero_desc": "Lokutan daga tafiyar yakin neman zabe, tarukan al'umma, da ayyukan da ke canza rayuwa."
+    }
+  },
+  "volunteer": {
+    "title": "Shiga Motsi",
+    "subtitle": "Ba za mu iya yin wannan kadai ba. Ku zama wani ɓangare na canjin ta hanyar sa-kai, fasaha, ko murya don taimaka mana gina Zamfara mafi kyau.",
+    "cta": "Yi Aikin Sa-kai Yanzu",
+    "contact": "Tuntuɓe mu",
+    "page": {
+      "hero_pre": "Shiga",
+      "hero_accent": "Motsi",
+      "hero_desc": "Canjin gaskiya yana buƙatar aikin gama gari. Muna buƙatar ƙarfinku, ƙwarewanku, da sha'awarku.",
+      "why_title": "Me ya sa Aikin Sa-kai?",
+      "why_desc": "Aikin sa-kai a yakin neman zabe ya fi siyasa kawai; alƙawari ne ga nan gaba na jiharmu. Muna gina hanyar sadarwa ta masu canza rayuwa.",
+      "benefit_community_title": "Gina Al'umma",
+      "benefit_community_desc": "Yi aiki tare da mutane masu sha'awa waɗanda ke son mafi kyau ga Zamfara.",
+      "benefit_voice_title": "Ƙarfafa Muryarka",
+      "benefit_voice_desc": "Sami tasiri kai tsaye kan manufofin da shirye-shiryen da ake tsarawa.",
+      "benefit_change_title": "Ƙirƙiri Canjin Gaskiya",
+      "benefit_change_desc": "Ga sakamakon ayyukanku masu iya gani a rayuwar wasu.",
+      "form_title": "Fom na Rajista na Aikin Sa-kai",
+      "form_submit": "Shiga Tawagar",
+      "form_success": "Barka da zuwa cikin tawagar! Mun karɓi bayananku kuma mai duba aikin sa-kai zai tuntuɓe ku nan gaba.",
+      "label_name": "Sunan Cikakke",
+      "label_phone": "Lambar Waya",
+      "label_email": "Adireshin Imel",
+      "label_lga": "Yankin Gwamnatin Gida",
+      "placeholder_lga": "Zaɓi LGA...",
+      "label_skills": "Ƙwarewa da za ku iya ba da gudummawa",
+      "label_interests": "Wuraren sha'awa",
+      "skills": ["Shigar Bayanan", "Wayar da Al'umma", "Kafofin Sada Zumunta", "Sufuri", "Gudanar da Ayyuka", "Tallafin Likita", "Taimakon Shari'a", "Koyarwa", "Daukar Hoto"],
+      "interests": ["Ilimi", "Lafiya", "Matasa", "Mata", "Noma", "Ababen More Rayuwa", "Tallafi Gaba ɗaya"]
+    }
+  },
+  "contact": {
+    "page": {
+      "hero_pre": "Tuntuɓe",
+      "hero_accent": "Mu",
+      "hero_desc": "Kuna da tambaya, shawara, ko kuna son gayyata Masha. Suleiman zuwa al'ummarku? Muna nan don saurare.",
+      "form_heading": "Aika Saƙo",
+      "form_submit": "Aika Saƙon",
+      "form_success": "Na gode da tuntuɓarmu. Za mu mayar da amsa nan gaba da zaran za mu iya.",
+      "label_name": "Sunanku",
+      "label_email": "Adireshin Imel",
+      "label_subject": "Jigon Saƙon",
+      "label_message": "Saƙo",
+      "info_heading": "Bayanan Tuntuɓa",
+      "label_address": "Adireshin Ofis",
+      "label_phone": "Waya",
+      "label_email_info": "Imel",
+      "label_hours": "Sa'o'in Ofis",
+      "social_heading": "Bi Mu",
+      "map_label": "Wurin Taswira"
+    }
+  },
+  "footer": {
+    "tagline": "Jagoranci da aka gina akan hidima. Gina dama ga kowane al'umma a Jihar Zamfara ƙarƙashin Majalisar Dimokraɗiyyar Najeriya (NDC).",
+    "for_zamfara": "Don Zamfara",
+    "quick_links": "Hanyoyin Sauri",
+    "bio": "Tarihin Rayuwa",
+    "vision_policy": "Manufa da Manufofin",
+    "programs": "Shirye-shiryen Ƙarfafawa",
+    "latest_news": "Sabbin Labarai",
+    "volunteer": "Aikin Sa-kai",
+    "contact_heading": "Tuntuɓa",
+    "newsletter_heading": "Jarida ta Zamani",
+    "newsletter_sub": "Kasance kana sanin sabbin shirye-shiryen al'ummarmu da ayyukan da muke yi.",
+    "email_placeholder": "Adireshin Imel",
+    "rights": "Dukkan haƙƙoƙi na da kyau.",
+    "ndc": "Majalisar Dimokraɗiyyar Najeriya",
+    "privacy": "Manufar Sirri",
+    "terms": "Sharuɗɗan Amfani"
+  },
+  "language": {
+    "english": "English",
+    "hausa": "Hausa"
+  }
+}
