@@ -28,8 +28,8 @@ const iconMap: Record<string, FC<LucideProps>> = {
   BookOpen, HeartPulse, Wheat, Users, Flower, Laptop, Building2, Briefcase, ShieldCheck,
   Heart, Eye, Zap, TrendingUp, FolderOpen, MapPin
 };
-const heroPortrait = "/images/hon-hero-image.jpeg";
-const aboutPortrait = "/images/hon-image-2.jpeg";
+const heroPortrait = "/images/marafa-4.jpeg";
+const aboutPortrait = "/images/marafa-3.jpeg";
 
 export default function Home() {
   useSEO();
