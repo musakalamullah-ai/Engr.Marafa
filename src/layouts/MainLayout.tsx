@@ -60,7 +60,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
         <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 z-50">
             <div className="w-10 h-10 bg-primary text-white rounded-lg flex items-center justify-center font-bold text-xl shadow-md">
-              KM
+              SKM
             </div>
             <div
               className={cn(
@@ -68,7 +68,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
                 isScrolled ? "text-foreground" : "text-white drop-shadow-md"
               )}
             >
-              <div className="text-lg leading-none">Engr. Marafa</div>
+              <div className="text-lg leading-none">Engr. Sen Marafa</div>
               <div className="text-xs text-primary font-bold uppercase tracking-widest mt-0.5">
                 {t("footer.for_zamfara")}
               </div>
@@ -188,7 +188,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
                   KM
                 </div>
                 <div className="font-extrabold tracking-tight">
-                  <div className="text-lg leading-none">Engr. Marafa</div>
+                  <div className="text-lg leading-none">Engr. Sen. Marafa</div>
                   <div className="text-xs text-white/70 uppercase tracking-widest mt-0.5">
                     {t("footer.for_zamfara")}
                   </div>
