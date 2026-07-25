@@ -185,7 +185,7 @@ export function MainLayout({ children }: { children: React.ReactNode }) {
             <div>
               <Link href="/" className="flex items-center gap-3 mb-6">
                 <div className="w-10 h-10 bg-white text-primary rounded-lg flex items-center justify-center font-bold text-xl">
-                  KM
+                  SKM
                 </div>
                 <div className="font-extrabold tracking-tight">
                   <div className="text-lg leading-none">Engr. Sen. Marafa</div>
