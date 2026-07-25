@@ -9,10 +9,10 @@ import { SectionHeader } from "@/components/common/SectionHeader";
 import { AnimatedCounter } from "@/components/common/AnimatedCounter";
 import * as Icons from "lucide-react";
 
-const aboutPortrait = "/images/hon-image-2.jpeg";
+const aboutPortrait = "/images/marafa-6.jpeg";
 
 export default function About() {
-  useSEO({ title: "About Hon. Suleiman Salihu Usman" });
+  useSEO({ title: "Engr. Sen. Kabiru Garba Marafa (OFR, CON)" });
   const { t } = useTranslation();
 
   return (
