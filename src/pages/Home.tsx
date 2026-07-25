@@ -194,7 +194,7 @@ export default function Home() {
               <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl">
                 <img
                   src={aboutPortrait}
-                  alt="Hon. Suleiman at community event"
+                  alt="Engr. Sen. Marafa at community event"
                   className="w-full h-full object-cover"
                 />
               </div>
