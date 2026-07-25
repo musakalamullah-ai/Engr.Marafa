@@ -1,42 +1,50 @@
 export const timeline = [
   {
-    year: "2005",
-    title: "Grassroots Organizing",
-    description: "Began organizing local community action groups in Gusau to address basic infrastructure needs and community sanitation."
+    year: "1980s",
+    title: "Engineering Career",
+    description:
+      "Began his professional career as a Process Engineer at the Kaduna Refining and Petrochemical Company (KRPC), gaining extensive experience in Nigeria's petroleum industry."
   },
   {
-    year: "2008",
-    title: "Educational Advocacy",
-    description: "Led a successful campaign to rehabilitate three dilapidated primary schools, partnering with local businesses."
+    year: "Before 2011",
+    title: "Commissioner for Water Resources",
+    description:
+      "Served as Commissioner for Water Resources in Zamfara State, contributing to policies aimed at improving access to water resources and public infrastructure."
   },
   {
-    year: "2010",
-    title: "Founded Youth Empowerment Initiative",
-    description: "Launched a statewide program equipping young people with vocational and leadership skills to combat unemployment."
+    year: "Before 2011",
+    title: "Commissioner for Education",
+    description:
+      "Later served as Commissioner for Education, supporting educational reforms and strengthening learning opportunities across Zamfara State."
   },
   {
-    year: "2013",
-    title: "Agricultural Cooperative",
-    description: "Established a farmers' cooperative that provided over 1,000 rural farmers with subsidized fertilizer and high-yield seeds."
+    year: "2011",
+    title: "Elected Senator",
+    description:
+      "Elected to represent Zamfara Central Senatorial District in the Nigerian Senate, beginning a distinguished legislative career."
   },
   {
     year: "2015",
-    title: "Established Educational Trust Fund",
-    description: "Created a comprehensive scholarship program that has since supported hundreds of students through tertiary education."
+    title: "Re-elected to the Senate",
+    description:
+      "Returned for a second term and served as Vice Chairman of the Senate Committee on Petroleum Resources (Upstream) while chairing the Joint Committee on Petroleum Resources."
   },
   {
-    year: "2018",
-    title: "Healthcare Intervention",
-    description: "Initiated the annual free medical outreach program, reaching thousands of citizens in remote local governments."
+    year: "2015–2019",
+    title: "Petroleum Sector Reforms",
+    description:
+      "Sponsored and supported major petroleum reform legislation, including the Petroleum Industry Bill (PIB), while advocating for transparency and accountability in the sector."
   },
   {
-    year: "2020",
-    title: "Community Development Awards",
-    description: "Recognized nationally by several civil society organizations for outstanding contributions to rural development."
+    year: "2019",
+    title: "Landmark Supreme Court Case",
+    description:
+      "Played a central role in the APC Zamfara primaries legal challenge, which resulted in the landmark Supreme Court judgment that nullified the party's 2019 election victories in the state."
   },
   {
-    year: "2024",
-    title: "NDC Aspirant, House of Representatives",
-    description: "Declared candidacy for the House of Representatives, committed to bringing proactive and visionary leadership to the national stage."
+    year: "2026",
+    title: "Joined the Nigeria Democratic Congress",
+    description:
+      "Joined the Nigeria Democratic Congress (NDC), continuing his commitment to democratic governance, responsible leadership, and sustainable development in Zamfara State."
   }
 ];
