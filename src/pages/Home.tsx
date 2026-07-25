@@ -94,13 +94,14 @@ export default function Home() {
               </Link>
             </motion.div>
 
-            <motion.div variants={fadeUp} className="mt-10 flex items-center gap-4">
-              <button className="w-14 h-14 rounded-full bg-white/10 border border-white/20 backdrop-blur flex items-center justify-center text-white hover:bg-white/20 hover:scale-110 transition-all">
-                <Play className="w-6 h-6 ml-1 fill-white" />
-              </button>
-              <span className="font-semibold text-white">{t("hero.watch")}</span>
-            </motion.div>
-          </motion.div>
+           {/*
+<motion.div variants={fadeUp} className="mt-10 flex items-center gap-4">
+  <button className="w-14 h-14 rounded-full bg-white/10 border border-white/20 backdrop-blur flex items-center justify-center text-white hover:bg-white/20 hover:scale-110 transition-all">
+    <Play className="w-6 h-6 ml-1 fill-white" />
+  </button>
+  <span className="font-semibold text-white">{t("hero.watch")}</span>
+</motion.div>
+*/}
 
        {/* Hero Image Container (Temporarily Disabled)
 <motion.div
