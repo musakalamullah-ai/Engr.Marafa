@@ -1,14 +1,14 @@
 export const news = [
   {
     id: "declaration-of-intent",
-    title: "Hon. Suleiman Officially Declares for House of Representatives",
-    excerpt: "In a massive rally in Gusau, Hon. Suleiman Salihu Usman announced his intention to represent the good people of Zamfara State under the NDC.",
-    content: "Surrounded by thousands of supporters, community leaders, and party faithful, Honourable Suleiman Salihu Usman officially declared his intention to contest for the House of Representatives seat. In his speech, he outlined his blueprint for economic revitalization, educational reform, and security enhancement. 'The time for visionary leadership is now,' he stated. 'We must harness the potential of our youth and empower our women to build a Zamfara that works for everyone.'",
+    title: "Kogi High Court denies ordering deregistration of NDC",
+    excerpt: "The High Court of Justice of Kogi State has dismissed reports circulating on social media claiming that it ordered the deregistration of the National Democratic Congress (NDC)",
+    content: "The High Court of Justice of Kogi State has dismissed reports circulating on social media claiming that it ordered the deregistration of the National Democratic Congress (NDC), describing the publication as false, misleading, and capable of tarnishing the image of the judiciary.",
     author: "Campaign Media Team",
-    date: "2024-03-15",
+    date: "2026-03-15",
     category: "Announcement",
     featured: true,
-    image: "https://placehold.co/800x500/0a2158/ffffff?text=Declaration+Rally",
+    image: "/images/news-1",
     readTime: "4 min read"
   },
   {
