@@ -1,24 +1,79 @@
 export const aboutData = {
-  name: "Honourable Suleiman Salihu Usman",
-  title: "House of Representatives Aspirant, Zamfara State",
+  name: "Engr. Sen. Kabiru Garba Marafa, OFR, CON",
+  title: "Governorship Aspirant, Zamfara State",
   bio: [
-    "Honourable Suleiman Salihu Usman is a dedicated public servant and community leader whose life’s work has been rooted in the prosperity and well-being of the people of Zamfara State.",
-    "Born and raised in Zamfara, his deep understanding of the unique challenges facing his people has driven his commitment to delivering impactful solutions in education, healthcare, youth empowerment, and economic development.",
-    "Throughout his distinguished career, he has championed initiatives that bring tangible change to underserved communities. From founding grassroots youth programs to establishing scholarship funds, Hon. Suleiman has consistently demonstrated that true leadership is defined by service.",
-    "As an aspirant for the House of Representatives under the Nigeria Democratic Congress (NDC), his vision is clear: to ensure proactive, transparent, and effective representation that unlocks opportunities for every citizen."
+    "Engr. Sen. Kabiru Garba Marafa, OFR, CON is a distinguished Nigerian statesman, chemical engineer, and former Senator who represented Zamfara Central Senatorial District in the National Assembly from 2011 to 2019. His leadership has been defined by courage, accountability, and an unwavering commitment to public service.",
+    "Born in Yandoton Daji, Tsafe Local Government Area of Zamfara State, Marafa's journey from engineering into public service reflects decades of dedication to improving governance, expanding opportunities, and advancing sustainable development for his people.",
+    "Throughout his career, he has served in strategic public offices, including Commissioner for Water Resources, Commissioner for Education, and Chairman of key Senate Committees on Petroleum Resources. His legislative contributions, particularly in petroleum sector reforms, have earned him national recognition as an influential voice for transparency and institutional development.",
+    "Today, as a leading figure of the Nigeria Democratic Congress (NDC) and a respected political leader in Zamfara State, Engr. Sen. Kabiru Garba Marafa continues to champion responsible leadership, quality education, youth empowerment, economic growth, and good governance while inspiring a new generation of public servants."
   ],
-  quote: "True leadership is not about the position we hold, but the positive impact we leave on the lives of those we serve.",
+
+  quote:
+    "Leadership is measured not by the offices we occupy, but by the lasting institutions we build and the lives we positively transform.",
+
   timeline: [
-    { year: "2005", title: "Community Leader", description: "Began organizing local community action groups to address basic infrastructure needs." },
-    { year: "2010", title: "Founded Youth Empowerment Initiative", description: "Launched a statewide program equipping young people with vocational and leadership skills." },
-    { year: "2015", title: "Established Educational Trust Fund", description: "Created a scholarship program that has supported hundreds of students through tertiary education." },
-    { year: "2020", title: "Community Development Awards", description: "Recognized nationally for outstanding contributions to rural development and healthcare access." },
-    { year: "2024", title: "NDC Aspirant", description: "Declared candidacy for the House of Representatives, committed to bringing visionary leadership to the national stage." }
+    {
+      year: "1980s",
+      title: "Engineering Career",
+      description:
+        "Began his professional career as a Process Engineer at the Kaduna Refining and Petrochemical Company (KRPC), contributing to Nigeria's petroleum industry."
+    },
+    {
+      year: "1999–2007",
+      title: "Commissioner in Zamfara State",
+      description:
+        "Served as Commissioner for Water Resources and later Commissioner for Education, driving policies aimed at improving public services and education."
+    },
+    {
+      year: "2011",
+      title: "Elected Senator",
+      description:
+        "Elected to represent Zamfara Central Senatorial District in the Nigerian Senate, beginning a distinguished legislative career."
+    },
+    {
+      year: "2015",
+      title: "Re-elected to the Senate",
+      description:
+        "Returned to the Senate for a second term and assumed key leadership responsibilities in petroleum sector oversight and national legislative reforms."
+    },
+    {
+      year: "2019",
+      title: "Defender of Democratic Process",
+      description:
+        "Played a central role in the legal challenge that resulted in the landmark Supreme Court judgment on the 2019 Zamfara APC primaries, reinforcing constitutional democracy and internal party accountability."
+    },
+    {
+      year: "2026",
+      title: "Joined the Nigeria Democratic Congress",
+      description:
+        "Joined the Nigeria Democratic Congress (NDC), continuing his mission to provide visionary leadership and strengthen democratic governance in Zamfara State and Nigeria."
+    }
   ],
+
   values: [
-    { title: "Service", description: "Prioritizing the needs of the community above all else.", icon: "Heart" },
-    { title: "Transparency", description: "Operating with absolute clarity, honesty, and accountability.", icon: "Eye" },
-    { title: "Empowerment", description: "Providing people with the tools they need to succeed.", icon: "Zap" },
-    { title: "Progress", description: "Driving sustainable growth and innovation for the future.", icon: "TrendingUp" }
+    {
+      title: "Integrity",
+      description:
+        "Committed to honesty, accountability, and principled leadership in public service.",
+      icon: "ShieldCheck"
+    },
+    {
+      title: "Service",
+      description:
+        "Dedicated to improving the lives of citizens through responsive governance and community-focused policies.",
+      icon: "Heart"
+    },
+    {
+      title: "Transparency",
+      description:
+        "Promoting openness, fairness, and accountability in political and institutional processes.",
+      icon: "Eye"
+    },
+    {
+      title: "Development",
+      description:
+        "Advocating for sustainable investments in education, infrastructure, agriculture, and economic growth.",
+      icon: "TrendingUp"
+    }
   ]
 };
