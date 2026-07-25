@@ -3,10 +3,10 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/utils";
 
 const images = [
-  "/images/hon-hero-image.jpeg",
-  "/images/hon-image-1.jpeg",
-  "/images/hon-image-2.jpeg",
-  "/images/hero-portrait.jpg",
+  "/images/marafa-1.jpeg",
+  "/images/marafa-6.jpeg",
+  "/images/marafa-3.jpeg",
+  "/images/marafa-2.jpeg",
 ];
 
 export function HeroSlider({ className }: { className?: string }) {
